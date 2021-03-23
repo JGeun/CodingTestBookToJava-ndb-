@@ -1,1 +1,2 @@
-# CodingTestBookToJava-ndb-
+이것이 코딩 테스트다. with 파이썬 - 한빛미디어(나동빈 지음) 
+책을 보면서 자바로 코드를 짜보는 repository입니다.
