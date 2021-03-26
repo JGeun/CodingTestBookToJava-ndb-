@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac808972-85a1-4de0-8e68-8ca04f2fbfa2" name="Default Changelist" comment="">
-
+      <change afterPath="$PROJECT_DIR$/src/Chapter4_Realization/problem4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,30 +55,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../intelij_workspace/SpringWorkspace/hello-spring/hello-spring" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.problem2">
+  <component name="RunManager" selected="Application.problem4 (1)">
     <configuration name="problem1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter4_Realization.problem1" />
       <module name="CodingTestBook_ndb" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter4_Realization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chaper3_Greedy.problem1" />
-      <module name="CodingTestBook_ndb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chaper3_Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4_Realization.problem4" />
+      <module name="CodingTestBook_ndb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4_Realization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chaper3_Greedy.problem4" />
       <module name="CodingTestBook_ndb" />
@@ -125,24 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem4 (1)" />
         <item itemvalue="Application.problem2" />
         <item itemvalue="Application.problem1 (1)" />
         <item itemvalue="Application.problem4" />
         <item itemvalue="Application.problem3" />
-        <item itemvalue="Application.problem1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616462629876</updated>
       <workItem from="1616571029594" duration="2121000" />
+      <workItem from="1616764551157" duration="1091000" />
     </task>
     <servers />
   </component>
@@ -180,31 +183,6 @@
         </entry>
       </map>
     </option>
-<<<<<<< HEAD
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="768" height="217" key="GridCell.Tab.0.bottom" timestamp="1616468194967">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="768" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616468194967" />
-    <state width="768" height="217" key="GridCell.Tab.0.center" timestamp="1616468194967">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="768" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616468194967" />
-    <state width="768" height="217" key="GridCell.Tab.0.left" timestamp="1616468194967">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="768" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616468194967" />
-    <state width="768" height="217" key="GridCell.Tab.0.right" timestamp="1616468194967">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="768" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616468194967" />
-    <state x="555" y="60" key="SettingsEditor" timestamp="1616463126193">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616463126193" />
-=======
     <option name="oldMeFiltersMigrated" value="true" />
->>>>>>> 28d7b636090074ef0e5a387a96b19cc2e57621c3
   </component>
 </project>
