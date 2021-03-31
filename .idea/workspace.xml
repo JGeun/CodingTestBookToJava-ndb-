@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac808972-85a1-4de0-8e68-8ca04f2fbfa2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6_Sort/problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter6_Sort/problem2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +59,22 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.problem1">
+  <component name="RunManager" selected="Application.problem2 (1)">
     <configuration name="problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter6_Sort.problem1" />
+      <module name="CodingTestBook_ndb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_Sort.problem2" />
       <module name="CodingTestBook_ndb" />
       <extension name="coverage">
         <pattern>
@@ -86,27 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem2 (1)" />
         <item itemvalue="Application.problem1" />
         <item itemvalue="Application.problem2" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -119,6 +131,8 @@
       <updated>1616462629876</updated>
       <workItem from="1616571029594" duration="2121000" />
       <workItem from="1616764551157" duration="1241000" />
+      <workItem from="1617035343011" duration="600000" />
+      <workItem from="1617176543920" duration="2784000" />
     </task>
     <servers />
   </component>
@@ -142,35 +156,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1616917003834">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1616917003834" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617004124523">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617004124523" />
-    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1617003474168">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617003474168" />
-    <state width="1537" height="212" key="GridCell.Tab.0.bottom" timestamp="1617004425919">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617004425919" />
-    <state width="1537" height="212" key="GridCell.Tab.0.center" timestamp="1617004425918">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617004425918" />
-    <state width="1537" height="212" key="GridCell.Tab.0.left" timestamp="1617004425917">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617004425917" />
-    <state width="1537" height="212" key="GridCell.Tab.0.right" timestamp="1617004425919">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1537" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617004425919" />
   </component>
 </project>
