@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac808972-85a1-4de0-8e68-8ca04f2fbfa2" name="Default Changelist" comment="" />
+    <list default="true" id="ac808972-85a1-4de0-8e68-8ca04f2fbfa2" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/src/Chapter7_BinarySearch/problem2.java" afterDir="false" />
+>>>>>>> 0a2c2ab58709734380d1a46a945a81c7e19c622a
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +62,52 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.problem4 (1)">
+  <component name="RunManager" selected="Application.problem2 (2)">
     <configuration name="problem1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4_Realization.problem1" />
+      <option name="MAIN_CLASS_NAME" value="Chapter7_BinarySearch.problem1" />
       <module name="CodingTestBook_ndb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4_Realization.*" />
+          <option name="PATTERN" value="Chapter7_BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_Sort.problem1" />
+      <module name="CodingTestBook_ndb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter6_Sort.problem2" />
+      <module name="CodingTestBook_ndb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter6_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7_BinarySearch.problem2" />
+      <module name="CodingTestBook_ndb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter7_BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,50 +116,11 @@
       </method>
     </configuration>
     <configuration name="problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4_Realization.problem2" />
+      <option name="MAIN_CLASS_NAME" value="Chapter5_DFSBFS.problem2" />
       <module name="CodingTestBook_ndb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4_Realization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chaper3_Greedy.problem3" />
-      <module name="CodingTestBook_ndb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chaper3_Greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4_Realization.problem4" />
-      <module name="CodingTestBook_ndb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter4_Realization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chaper3_Greedy.problem4" />
-      <module name="CodingTestBook_ndb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chaper3_Greedy.*" />
+          <option name="PATTERN" value="Chapter5_DFSBFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.problem4 (1)" />
-        <item itemvalue="Application.problem2" />
+        <item itemvalue="Application.problem2 (2)" />
         <item itemvalue="Application.problem1 (1)" />
-        <item itemvalue="Application.problem4" />
-        <item itemvalue="Application.problem3" />
+        <item itemvalue="Application.problem2 (1)" />
+        <item itemvalue="Application.problem1" />
+        <item itemvalue="Application.problem2" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +164,9 @@
       <updated>1616462629876</updated>
       <workItem from="1616571029594" duration="2121000" />
       <workItem from="1616764551157" duration="1241000" />
+      <workItem from="1617035343011" duration="600000" />
+      <workItem from="1617176543920" duration="3454000" />
+      <workItem from="1617277120439" duration="2991000" />
     </task>
     <servers />
   </component>
@@ -182,4 +191,37 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1616917003834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1616917003834" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617004124523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617004124523" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1617003474168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617003474168" />
+    <state width="1537" height="212" key="GridCell.Tab.0.bottom" timestamp="1617004859209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617004859209" />
+    <state width="1537" height="212" key="GridCell.Tab.0.center" timestamp="1617004859208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617004859208" />
+    <state width="1537" height="212" key="GridCell.Tab.0.left" timestamp="1617004859208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617004859208" />
+    <state width="1537" height="212" key="GridCell.Tab.0.right" timestamp="1617004859208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617004859208" />
+  </component>
+=======
+>>>>>>> 0a2c2ab58709734380d1a46a945a81c7e19c622a
 </project>
